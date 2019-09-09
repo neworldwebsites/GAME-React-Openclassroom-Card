@@ -1,3 +1,43 @@
+	EVENTS
+
+	using as props
+
+	npm i --save lodash.shuffle
+
+https://lodash.com/docs#shuffle
+
+npm i --save react-motion
+
+https://github.com/chenglou/react-motion
+
+https://github.com/chenglou/react-motion/tree/master/demos
+
+npm i --save prop-types
+
+npm i --save airbnb-prop-types
+
+https://github.com/airbnb/prop-types#readme
+
+	_.propTypes || _.defaultProps
+## Methodes Cycle de Vie
+
+### Mounting
+
+* constructor()
+* componentWillMount()
+* render()
+* componentDidMount()
+
+### Updating
+
+* componentWillReceiveProps()
+* shouldComponentUpdate()
+* componentWillUpdate()
+* render()
+* componentDidUpdate() 
+
+pour bibliothèques qui travaillent avec le DOM, comme D3, OpenStreetMaps, HighCharts…) ou avec les API Web (timers, réseau, bases de données…).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +106,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+

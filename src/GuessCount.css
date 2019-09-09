@@ -1,0 +1,13 @@
+.memory>.guessCount {
+  font-size: 1em;
+  width: calc(100% - 0.4em);
+  margin: 0.2em;
+  text-align: right;
+  font-family: Menlo, Monaco, Consolas, Inconsolata, 'Courier New', monospace;
+}
+
+.guesses{
+  color:red;
+  font-size:1.3em;
+  text-shadow:1px 1px black;
+}

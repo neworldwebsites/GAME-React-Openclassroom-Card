@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "lodash.shuffle": "^4.2.0",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-motion": "^0.5.2",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -27,5 +30,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://projets.neworldwebsites.fr/game/cards/"
+
 }
